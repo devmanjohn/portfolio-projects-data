@@ -1,26 +1,16 @@
 {
   "projects": [
     {
-      "id": "project1",
-      "title": "Project 1",
-      "image": "/path/to/project1-image.jpg",
-      "shortDescription": "Short description of Project 1",
-      "projectType": "Interaction Design",
+      "id": "1",
+      "title": "Manage",
+      "cover": "image-portfolio-manage@2x.jpg",
+      "shortDescription": "This project required me to build a fully responsive landing page to the designs provided. I used HTML5, along with CSS Grid and JavaScript for the areas that required interactivity, such as the testimonial slider.",
+      "projectType": "Interaction Design / ",
       "technologyUsed": "HTML / CSS / JS",
-      "projectBackground": "Details about Project 1",
-      "previewImage1": "/path/to/project1-preview1.jpg",
-      "previewImage2": "/path/to/project1-preview2.jpg"
-    },
-    {
-      "id": "project2",
-      "title": "Project 2",
-      "image": "/path/to/project2-image.jpg",
-      "shortDescription": "Short description of Project 2",
-      "projectType": "Front End Development",
-      "technologyUsed": "HTML / CSS / JS",
-      "projectBackground": "Details about Project 2",
-      "previewImage1": "/path/to/project2-preview1.jpg",
-      "previewImage2": "/path/to/project2-preview2.jpg"
+      "projectHero": "image-manage-hero@2x.jpg",
+      "projectBackground": "This project was a front-end challenge from Frontend Mentor. It's a platform that enables you to practice building websites to a design and project brief. Each challenge includes mobile and desktop designs to show how the website should look at different screen sizes. Creating these projects has helped me refine my workflow and solve real-world coding problems. I've learned something new with each project, helping me to improve and adapt my style.",
+      "previewImage1": "image-manage-preview-1@2x.jpg",
+      "previewImage2": "image-manage-preview-2@2x.jpg"
     }
   ]
 }
