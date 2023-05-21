@@ -1,0 +1,26 @@
+{
+  "projects": [
+    {
+      "id": "project1",
+      "title": "Project 1",
+      "image": "/path/to/project1-image.jpg",
+      "shortDescription": "Short description of Project 1",
+      "projectType": "Interaction Design",
+      "technologyUsed": "HTML / CSS / JS",
+      "projectBackground": "Details about Project 1",
+      "previewImage1": "/path/to/project1-preview1.jpg",
+      "previewImage2": "/path/to/project1-preview2.jpg"
+    },
+    {
+      "id": "project2",
+      "title": "Project 2",
+      "image": "/path/to/project2-image.jpg",
+      "shortDescription": "Short description of Project 2",
+      "projectType": "Front End Development",
+      "technologyUsed": "HTML / CSS / JS",
+      "projectBackground": "Details about Project 2",
+      "previewImage1": "/path/to/project2-preview1.jpg",
+      "previewImage2": "/path/to/project2-preview2.jpg"
+    }
+  ]
+}
